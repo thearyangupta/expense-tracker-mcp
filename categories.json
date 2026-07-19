@@ -1,0 +1,45 @@
+{
+  "Food": [
+    "Groceries",
+    "Restaurant",
+    "Cafe",
+    "Snacks"
+  ],
+  "Transportation": [
+    "Fuel",
+    "Public Transport",
+    "Cab",
+    "Vehicle Maintenance"
+  ],
+  "Housing": [
+    "Rent",
+    "Electricity",
+    "Water",
+    "Internet",
+    "Maintenance"
+  ],
+  "Health": [
+    "Doctor",
+    "Medicine",
+    "Insurance",
+    "Fitness"
+  ],
+  "Education": [
+    "Courses",
+    "Books",
+    "Fees",
+    "Stationery"
+  ],
+  "Entertainment": [
+    "Movies",
+    "Games",
+    "Subscriptions",
+    "Events"
+  ],
+  "Shopping": [
+    "Clothing",
+    "Electronics",
+    "Personal Care",
+    "Other"
+  ]
+}
